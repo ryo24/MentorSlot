@@ -43,7 +43,6 @@ Thumbs.db
 # ============ #
 # Build   #
 # ============ #
-*.html
 *.unity3d
 *.apk
 *.unitypackage
